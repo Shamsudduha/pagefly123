@@ -1,0 +1,154 @@
+
+@media(max-width: 1199px){
+    .twoimg img {
+    max-width: 400px;}
+
+    .twotext {
+    padding: 5px 30px;}
+    .num_sub h1 {
+    font-family: 'Poppins';
+    font-size: 88px;}
+    .num_sub h4 {
+    font-size: 18px;}
+
+    .num_sub p {
+    font-size: 14px;}
+
+    .boxtr3_sub p {
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 16px;
+    padding: 0 10px;}
+
+
+}
+
+
+@media(max-width: 991px)
+{
+
+    .partnerh {
+    text-align: center;}
+
+    .partbar {
+    background: #5F67FF;
+    color: white;
+    max-width: 100%;
+    margin: 66px 0;
+    border-radius: 0;}
+    .partbar h2 {
+        text-align: center;
+    font-size: 48px;
+    margin-left: auto;
+    font-weight: 700;
+    padding: 15px 0px 15px;}
+.twoimg img {
+    max-width: 280px;}
+    .twotext h6 {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;}
+
+.twotext p {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 1.5;
+    padding: 0;}
+
+
+    .twotext h4 {
+    font-family: 'Poppins';
+    font-size: 30px;}
+
+
+.twoimg {
+    box-shadow: 0px 5px 20px #d2d2d2;
+    border-radius: 10px;
+    padding: 72px;
+    margin: 10px 0 36px;}
+
+
+    .brand_full h1 {
+    text-align: center;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 36px;}
+
+.brand_sub1 {
+    padding: 20px 10px;
+    margin: 10px 60px 30px}
+
+
+}
+
+@media(max-width: 767px){
+
+
+.partner h4 {
+    text-align: center;}
+
+.boxtr3_sub {
+    padding: 20px 60px;
+    margin: 25px 66px;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0px 5px 20px #c6cbff;}
+
+
+.navbar-light .navbar-toggler {
+    color: rgba(0, 0, 0, 0.55);
+    border-color: rgba(0, 0, 0, 0.1);
+    display: contents;}
+
+
+}
+
+@media(max-width: 575px){
+
+
+.menu_text h1 {
+    
+    font-size: 26px;}
+
+.btn1 {
+  
+    font-size: 12px;}
+    .menu_section {
+    margin: 0 0 48px;}
+
+    .services_box h1 {
+    font-size: 22px;}
+
+    .box3 {
+    padding: 12px 92px;}
+    .box_sub {
+    padding: 30px 15px;
+    box-shadow: 0px 1px 10px #cac1c1;}
+    .box_img img {
+    max-width: 296px;
+    padding: 20px 0px;}
+    .box_img {
+    text-align: center;}
+    .box_text {
+    padding: 15px 66px 20px;
+    text-align: center;}
+
+    .box_img {
+    text-align: center;
+    order: -1;}
+    .box4 h6 {
+    font-size: 18px;
+    display: inline-block;}
+    .box4 {
+    width: 50%;}
+    .texf p {
+    font-size: 12px;
+    text-align: center}
+    .icof ul {
+    padding: 0 180px;}
+
+
+    
+
+}
